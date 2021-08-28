@@ -21,7 +21,7 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
         String name = scanner.nextLine();
-        System.out.println("Здравствуйте " + name + " !");
+        System.out.println("Здравствуйте " + name + "!");
 
     }
 
